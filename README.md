@@ -1,4 +1,4 @@
-Shaun Social Network 
+ShaunSocial - PHP Social Network Script 
 ======================================
 ShaunSocial is a PHP Social Network Script. It is the first truly Laravel social network framework for building fast, scalable and secure content-driven social network websites and mobile apps.
 
